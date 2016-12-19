@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>easel.drvier</id>
+    <version>0.0.1</version>
+    <title>easel.drvier (Install)</title>
+    <authors>Isaac Springer</authors>
+    <projectUrl>https://github.com/onyxhat/easel-driver-install</projectUrl>
+    <tags>easel.drvier Easel CNC driver</tags>
+    <summary>Automated installer for the Easel online CNC software</summary>
+    <description>Automated installer for the Easel online CNC software</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
